@@ -3,7 +3,7 @@
 
 Currency Merger is a simple tool for joining values in different currencies. For example, if I have money in USD, EUR, BRL and AED, I could use this tool to see how much I have in total in USD.
 
-This is my first project ever, I did it for a Applied Algorithmic Thinking class. It was made in Python with the libraries TKinter and Requests, as well as the API ExchangeRate. This being said, for the program to work properly, you need to install the libraries used before running it.
+This is my first project ever, I did it for an Applied Algorithmic Thinking class. It was made in Python with the libraries TKinter and Requests, as well as the API ExchangeRate. This being said, for the program to work properly you need to install the libraries used before running it.
 
 **Algorithm explanation**
 
